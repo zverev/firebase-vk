@@ -1,4 +1,7 @@
 {
-    "firebase_url": "https://milesaway.firebaseio.com/",
-    "firebase_secret": "aXoVw1K8INGE2Mn9XnBHoSQmmuo605PvoeCtjkWO"
+    "host": "http://localhost:8010",
+    "vk_app_id": "0000000",
+    "vk_secret": "xxxxxxxxxxxxxxx",
+    "firebase_url": "https://myfirebase.firebaseio.com/",
+    "firebase_secret": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 }
